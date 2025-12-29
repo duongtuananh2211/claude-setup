@@ -1,0 +1,5 @@
+# Claude local settings (managed via sync script)
+.claude/
+
+# Versioned settings file (tracked in git)
+# .claude-settings.json
